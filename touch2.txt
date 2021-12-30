@@ -1,1 +1,1 @@
-some text in new branch
+some text in new branch after dleleting
